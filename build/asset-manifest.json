@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3f8ad62.css",
+    "main.js": "/static/js/main.5f57e0bf.js",
+    "static/media/BLKCHCRY.TTF": "/static/media/BLKCHCRY.7d521baec2350e17620c.TTF",
+    "index.html": "/index.html",
+    "main.b3f8ad62.css.map": "/static/css/main.b3f8ad62.css.map",
+    "main.5f57e0bf.js.map": "/static/js/main.5f57e0bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f8ad62.css",
+    "static/js/main.5f57e0bf.js"
+  ]
+}
